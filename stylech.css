@@ -1,0 +1,7 @@
+body {
+   background-image: url('img/left_crest.png'), url('img/right_crest.png'), url('img/backgr.jpg');
+   background-repeat: no-repeat, no-repeat, repeat;
+   background-position: left top 45%, right center;
+   overflow-x: hidden;
+   height: 2000px;
+}
